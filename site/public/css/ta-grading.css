@@ -1,8 +1,0 @@
-#wrapper {
-    /* stylelint-disable-next-line declaration-no-important */
-    min-height: 0 !important;
-}
-
-.hotkeys-button {
-    width: 125px;
-}
